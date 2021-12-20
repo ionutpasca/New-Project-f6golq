@@ -11,6 +11,7 @@ const Home = () => {
         <title>New Project</title>
         <meta property="og:title" content="New Project" />
       </Helmet>
+      <div className={styles['container1']}></div>
     </div>
   )
 }
