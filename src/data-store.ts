@@ -7,6 +7,7 @@ Subject.prototype.hook = function () {
   return value;
 };
 
+// comm here
 const store = {
   value: new Subject(""),
   count: new Subject(0),
